@@ -27,7 +27,7 @@
 -include $(COMMON_PATH)/BoardConfigCommon.mk
 
 # Recovery
-TARGET_OTA_ASSERT_DEVICE := salami
+TARGET_OTA_ASSERT_DEVICE := xigua
 
 # TWRP specific build flags
 TW_FRAMERATE := 120
